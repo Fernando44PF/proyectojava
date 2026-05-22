@@ -33,7 +33,7 @@ public class Persona{
     }
 
     public void comer(){
-        System.out.println("estoy comiendo");
+        System.out.println("estoy comiendoooo");
     }
 
 
