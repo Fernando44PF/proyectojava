@@ -34,6 +34,9 @@ public class Persona{
 
     public void comer(){
         System.out.println("estoy comiendoooo");
+        System.out.println("no entiendo git todavia");
+        System.out.println("ya casi ");
+
     }
 
 
