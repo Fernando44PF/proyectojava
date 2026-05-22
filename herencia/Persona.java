@@ -5,6 +5,7 @@ public class Persona{
     private String apellido;
     private int edad;
     int edad3;
+    int edad4;
 
 
 
