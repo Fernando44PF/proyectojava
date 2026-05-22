@@ -47,6 +47,15 @@ public class Persona{
 
         System.out.println("prueba");
 
+
+        System.out.println("hola");
+        System.out.println("hola ");
+        System.out.println("hola");
+
+        System.out.println("hola");
+        System.out.println("hola ");
+        System.out.println("hola");
+
     }
 
 
