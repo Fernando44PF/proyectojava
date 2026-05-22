@@ -37,6 +37,10 @@ public class Persona{
         System.out.println("no entiendo git todavia");
         System.out.println("ya casi ");
 
+
+        System.out.println("ahora si ya casi");
+        System.out.println("no entiendo que es un contendor:(");
+
     }
 
 
