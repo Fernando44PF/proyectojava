@@ -6,6 +6,7 @@ public class Persona{
     private int edad;
     int edad3;
     int edad4;
+    int edad5;
 
 
 
